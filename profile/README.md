@@ -1,12 +1,14 @@
-## Hi there 👋
+[DREAM WITH US](https://killa.digital/daydream)
 
-<!--
+<img align="left" src="https://killa.digital/img/logo_hd.png" alt="real" width="128"/> 
 
-**Here are some ideas to get you started:**
+```csharp
+killa-digital@github
+-------------------------
+KILLA-DIGITAL IS THE PLACE
+WHERE THE THINGS ALL HAPPEN
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+FIND YOUR CALLING
+DON'T JUST WAIT FOR IT TO HAPPEN
+```
+
